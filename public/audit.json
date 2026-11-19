@@ -1,0 +1,1543 @@
+{
+ "generated_at": "2026-11-19T03:55Z",
+ "window": [
+  "2026-11-01",
+  "2026-11-19"
+ ],
+ "old_fallback_min": 45,
+ "alert_after_min": 30,
+ "cities": {
+  "nyc": {
+   "series": "KXTEMPNYCHS",
+   "minutes": 25730,
+   "station_days": {
+    "2026-11-01": {
+     "KCDW1M": {
+      "one_minute": 1431,
+      "metar": 4,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     },
+     "KLGA1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     },
+     "KSMQ1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-02": {
+     "KCDW1M": {
+      "one_minute": 1421,
+      "metar": 0,
+      "missing": 1
+     },
+     "KEWR1M": {
+      "one_minute": 1422,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1422,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1421,
+      "metar": 1,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1422,
+      "metar": 0,
+      "missing": 0
+     },
+     "KLGA1M": {
+      "one_minute": 1422,
+      "metar": 0,
+      "missing": 0
+     },
+     "KSMQ1M": {
+      "one_minute": 1422,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1422,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-03": {
+     "KCDW1M": {
+      "one_minute": 1434,
+      "metar": 1,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     },
+     "KLGA1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     },
+     "KSMQ1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-04": {
+     "KCDW1M": {
+      "one_minute": 1435,
+      "metar": 1,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 858,
+      "metar": 73,
+      "missing": 505
+     },
+     "KLGA1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 1
+     },
+     "KSMQ1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 1
+     }
+    },
+    "2026-11-05": {
+     "KCDW1M": {
+      "one_minute": 1432,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1432,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1432,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1432,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1251,
+      "metar": 45,
+      "missing": 136
+     },
+     "KLGA1M": {
+      "one_minute": 1431,
+      "metar": 0,
+      "missing": 1
+     },
+     "KSMQ1M": {
+      "one_minute": 1431,
+      "metar": 1,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1431,
+      "metar": 0,
+      "missing": 1
+     }
+    },
+    "2026-11-06": {
+     "KCDW1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KLGA1M": {
+      "one_minute": 1429,
+      "metar": 0,
+      "missing": 8
+     },
+     "KSMQ1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-07": {
+     "KCDW1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 0
+     },
+     "KLGA1M": {
+      "one_minute": 1434,
+      "metar": 0,
+      "missing": 2
+     },
+     "KSMQ1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-08": {
+     "KCDW1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KLGA1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 1
+     },
+     "KSMQ1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-09": {
+     "KCDW1M": {
+      "one_minute": 1314,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1314,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1314,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1314,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1314,
+      "metar": 0,
+      "missing": 0
+     },
+     "KLGA1M": {
+      "one_minute": 1314,
+      "metar": 0,
+      "missing": 0
+     },
+     "KSMQ1M": {
+      "one_minute": 1314,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1314,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-10": {
+     "KCDW1M": {
+      "one_minute": 1434,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1434,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1434,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1434,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1434,
+      "metar": 0,
+      "missing": 0
+     },
+     "KLGA1M": {
+      "one_minute": 1434,
+      "metar": 0,
+      "missing": 0
+     },
+     "KSMQ1M": {
+      "one_minute": 1434,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1434,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-11": {
+     "KCDW1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KLGA1M": {
+      "one_minute": 1439,
+      "metar": 0,
+      "missing": 1
+     },
+     "KSMQ1M": {
+      "one_minute": 1420,
+      "metar": 3,
+      "missing": 17
+     },
+     "KTEB1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-12": {
+     "KCDW1M": {
+      "one_minute": 1439,
+      "metar": 1,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1433,
+      "metar": 7,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KLGA1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KSMQ1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-13": {
+     "KCDW1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KLGA1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KSMQ1M": {
+      "one_minute": 1409,
+      "metar": 31,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-14": {
+     "KCDW1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KLGA1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KSMQ1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-15": {
+     "KCDW1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 865,
+      "metar": 307,
+      "missing": 268
+     },
+     "KLGA1M": {
+      "one_minute": 1438,
+      "metar": 0,
+      "missing": 2
+     },
+     "KSMQ1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-16": {
+     "KCDW1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 145,
+      "metar": 758,
+      "missing": 534
+     },
+     "KLGA1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KSMQ1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-17": {
+     "KCDW1M": {
+      "one_minute": 1438,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1438,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1438,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1438,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 691,
+      "metar": 307,
+      "missing": 440
+     },
+     "KLGA1M": {
+      "one_minute": 1438,
+      "metar": 0,
+      "missing": 0
+     },
+     "KSMQ1M": {
+      "one_minute": 1438,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1438,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-18": {
+     "KCDW1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KEWR1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KFRG1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KHPN1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KISP1M": {
+      "one_minute": 694,
+      "metar": 397,
+      "missing": 346
+     },
+     "KLGA1M": {
+      "one_minute": 1434,
+      "metar": 0,
+      "missing": 3
+     },
+     "KSMQ1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     },
+     "KTEB1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 0
+     }
+    }
+   },
+   "first_alert": {
+    "KISP1M": "2026-11-15T14:54Z"
+   },
+   "settlements": 415,
+   "expiration_matches_published": 415,
+   "settlements_on_fallback": 47,
+   "settlements_on_old_fallback": [
+    {
+     "event": "KXTEMPNYCHS-26NOV0404",
+     "minute": "2026-11-04T09:00Z",
+     "settled_f": 51.51,
+     "status": "degraded",
+     "published_f": 51.51,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 53.06,
+       "age_min": 60.8,
+       "last_one_minute_f": 53.6
+      }
+     ],
+     "nearest_strike": 51.99
+    },
+    {
+     "event": "KXTEMPNYCHS-26NOV0415",
+     "minute": "2026-11-04T20:00Z",
+     "settled_f": 70.57,
+     "status": "degraded",
+     "published_f": 70.57,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 66.92,
+       "age_min": 60.8,
+       "last_one_minute_f": 66.2
+      }
+     ],
+     "nearest_strike": 70.99
+    },
+    {
+     "event": "KXTEMPNYCHS-26NOV1510",
+     "minute": "2026-11-15T15:00Z",
+     "settled_f": 46.0,
+     "status": "degraded",
+     "published_f": 46,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 44.96,
+       "age_min": 60.8,
+       "last_one_minute_f": null
+      }
+     ],
+     "nearest_strike": 45.99
+    },
+    {
+     "event": "KXTEMPNYCHS-26NOV1514",
+     "minute": "2026-11-15T19:00Z",
+     "settled_f": 50.09,
+     "status": "degraded",
+     "published_f": 50.09,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 48.92,
+       "age_min": 60.7,
+       "last_one_minute_f": null
+      }
+     ],
+     "nearest_strike": 49.99
+    },
+    {
+     "event": "KXTEMPNYCHS-26NOV1520",
+     "minute": "2026-11-16T01:00Z",
+     "settled_f": 44.2,
+     "status": "degraded",
+     "published_f": 44.2,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 44.96,
+       "age_min": 60.8,
+       "last_one_minute_f": null
+      }
+     ],
+     "nearest_strike": 43.99
+    },
+    {
+     "event": "KXTEMPNYCHS-26NOV1601",
+     "minute": "2026-11-16T06:00Z",
+     "settled_f": 39.2,
+     "status": "degraded",
+     "published_f": 39.2,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 41,
+       "age_min": 60.8,
+       "last_one_minute_f": null
+      }
+     ],
+     "nearest_strike": 38.99
+    },
+    {
+     "event": "KXTEMPNYCHS-26NOV1612",
+     "minute": "2026-11-16T17:00Z",
+     "settled_f": 52.68,
+     "status": "degraded",
+     "published_f": 52.68,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 48.02,
+       "age_min": 60.8,
+       "last_one_minute_f": null
+      }
+     ],
+     "nearest_strike": 52.99
+    },
+    {
+     "event": "KXTEMPNYCHS-26NOV1618",
+     "minute": "2026-11-16T23:00Z",
+     "settled_f": 48.07,
+     "status": "degraded",
+     "published_f": 48.07,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 48.92,
+       "age_min": 60.8,
+       "last_one_minute_f": 46.4
+      }
+     ],
+     "nearest_strike": 47.99
+    },
+    {
+     "event": "KXTEMPNYCHS-26NOV1622",
+     "minute": "2026-11-17T03:00Z",
+     "settled_f": 43.27,
+     "status": "degraded",
+     "published_f": 43.27,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 42.98,
+       "age_min": 60.7,
+       "last_one_minute_f": 42.8
+      }
+     ],
+     "nearest_strike": 42.99
+    },
+    {
+     "event": "KXTEMPNYCHS-26NOV1707",
+     "minute": "2026-11-17T12:00Z",
+     "settled_f": 35.69,
+     "status": "degraded",
+     "published_f": 35.69,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 30.92,
+       "age_min": 60.8,
+       "last_one_minute_f": 32
+      }
+     ],
+     "nearest_strike": 35.99
+    },
+    {
+     "event": "KXTEMPNYCHS-26NOV1713",
+     "minute": "2026-11-17T18:00Z",
+     "settled_f": 55.22,
+     "status": "degraded",
+     "published_f": 55.22,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 53.96,
+       "age_min": 60.7,
+       "last_one_minute_f": 55.4
+      }
+     ],
+     "nearest_strike": 54.99
+    },
+    {
+     "event": "KXTEMPNYCHS-26NOV1801",
+     "minute": "2026-11-18T06:00Z",
+     "settled_f": 41.09,
+     "status": "degraded",
+     "published_f": 41.09,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 39.92,
+       "age_min": 60.8,
+       "last_one_minute_f": 37.4
+      }
+     ],
+     "nearest_strike": 40.99
+    },
+    {
+     "event": "KXTEMPNYCHS-26NOV1814",
+     "minute": "2026-11-18T19:00Z",
+     "settled_f": 63.07,
+     "status": "degraded",
+     "published_f": 63.07,
+     "fallbacks": [
+      {
+       "station": "KISP1M",
+       "metar_f": 60.98,
+       "age_min": 60.7,
+       "last_one_minute_f": 62.6
+      }
+     ],
+     "nearest_strike": 62.99
+    }
+   ],
+   "max_fallback_age_min": 60.8
+  },
+  "chicago": {
+   "series": "KXTEMPCHIHS",
+   "minutes": 25888,
+   "station_days": {
+    "2026-11-01": {
+     "KARR1M": {
+      "one_minute": 1437,
+      "metar": 3,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1055,
+      "metar": 385,
+      "missing": 0
+     },
+     "KMDW1M": {
+      "one_minute": 1437,
+      "metar": 3,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1437,
+      "metar": 1,
+      "missing": 2
+     },
+     "KPWK1M": {
+      "one_minute": 1437,
+      "metar": 3,
+      "missing": 0
+     }
+    },
+    "2026-11-02": {
+     "KARR1M": {
+      "one_minute": 1422,
+      "metar": 17,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1115,
+      "metar": 324,
+      "missing": 0
+     },
+     "KMDW1M": {
+      "one_minute": 1422,
+      "metar": 17,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1381,
+      "metar": 1,
+      "missing": 57
+     },
+     "KPWK1M": {
+      "one_minute": 1422,
+      "metar": 17,
+      "missing": 0
+     }
+    },
+    "2026-11-03": {
+     "KARR1M": {
+      "one_minute": 1435,
+      "metar": 4,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1192,
+      "metar": 242,
+      "missing": 5
+     },
+     "KMDW1M": {
+      "one_minute": 1435,
+      "metar": 4,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1435,
+      "metar": 1,
+      "missing": 3
+     },
+     "KPWK1M": {
+      "one_minute": 1435,
+      "metar": 4,
+      "missing": 0
+     }
+    },
+    "2026-11-04": {
+     "KARR1M": {
+      "one_minute": 1438,
+      "metar": 2,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1136,
+      "metar": 304,
+      "missing": 0
+     },
+     "KMDW1M": {
+      "one_minute": 1438,
+      "metar": 2,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1438,
+      "metar": 0,
+      "missing": 2
+     },
+     "KPWK1M": {
+      "one_minute": 1438,
+      "metar": 2,
+      "missing": 0
+     }
+    },
+    "2026-11-05": {
+     "KARR1M": {
+      "one_minute": 1435,
+      "metar": 5,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1049,
+      "metar": 391,
+      "missing": 0
+     },
+     "KMDW1M": {
+      "one_minute": 1436,
+      "metar": 4,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1435,
+      "metar": 2,
+      "missing": 3
+     },
+     "KPWK1M": {
+      "one_minute": 1435,
+      "metar": 5,
+      "missing": 0
+     }
+    },
+    "2026-11-06": {
+     "KARR1M": {
+      "one_minute": 1437,
+      "metar": 3,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1083,
+      "metar": 357,
+      "missing": 0
+     },
+     "KMDW1M": {
+      "one_minute": 1437,
+      "metar": 3,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 3
+     },
+     "KPWK1M": {
+      "one_minute": 1437,
+      "metar": 3,
+      "missing": 0
+     }
+    },
+    "2026-11-07": {
+     "KARR1M": {
+      "one_minute": 1436,
+      "metar": 4,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1070,
+      "metar": 332,
+      "missing": 38
+     },
+     "KMDW1M": {
+      "one_minute": 1436,
+      "metar": 4,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1436,
+      "metar": 0,
+      "missing": 4
+     },
+     "KPWK1M": {
+      "one_minute": 1436,
+      "metar": 4,
+      "missing": 0
+     }
+    },
+    "2026-11-08": {
+     "KARR1M": {
+      "one_minute": 1437,
+      "metar": 3,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1029,
+      "metar": 388,
+      "missing": 23
+     },
+     "KMDW1M": {
+      "one_minute": 1437,
+      "metar": 3,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 3
+     },
+     "KPWK1M": {
+      "one_minute": 1437,
+      "metar": 3,
+      "missing": 0
+     }
+    },
+    "2026-11-09": {
+     "KARR1M": {
+      "one_minute": 1314,
+      "metar": 126,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 950,
+      "metar": 449,
+      "missing": 41
+     },
+     "KMDW1M": {
+      "one_minute": 1314,
+      "metar": 126,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1314,
+      "metar": 0,
+      "missing": 126
+     },
+     "KPWK1M": {
+      "one_minute": 1314,
+      "metar": 126,
+      "missing": 0
+     }
+    },
+    "2026-11-10": {
+     "KARR1M": {
+      "one_minute": 1435,
+      "metar": 5,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1079,
+      "metar": 356,
+      "missing": 5
+     },
+     "KMDW1M": {
+      "one_minute": 1435,
+      "metar": 5,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1435,
+      "metar": 0,
+      "missing": 5
+     },
+     "KPWK1M": {
+      "one_minute": 1434,
+      "metar": 6,
+      "missing": 0
+     }
+    },
+    "2026-11-11": {
+     "KARR1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1259,
+      "metar": 181,
+      "missing": 0
+     },
+     "KMDW1M": {
+      "one_minute": 1439,
+      "metar": 1,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KPWK1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-12": {
+     "KARR1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1143,
+      "metar": 288,
+      "missing": 9
+     },
+     "KMDW1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KPWK1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-13": {
+     "KARR1M": {
+      "one_minute": 1379,
+      "metar": 31,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 968,
+      "metar": 283,
+      "missing": 159
+     },
+     "KMDW1M": {
+      "one_minute": 1395,
+      "metar": 15,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1410,
+      "metar": 0,
+      "missing": 0
+     },
+     "KPWK1M": {
+      "one_minute": 1389,
+      "metar": 21,
+      "missing": 0
+     }
+    },
+    "2026-11-14": {
+     "KARR1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1139,
+      "metar": 301,
+      "missing": 0
+     },
+     "KMDW1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KPWK1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-15": {
+     "KARR1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1097,
+      "metar": 338,
+      "missing": 5
+     },
+     "KMDW1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KPWK1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-16": {
+     "KARR1M": {
+      "one_minute": 1437,
+      "metar": 3,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1255,
+      "metar": 163,
+      "missing": 22
+     },
+     "KMDW1M": {
+      "one_minute": 1437,
+      "metar": 3,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1437,
+      "metar": 0,
+      "missing": 3
+     },
+     "KPWK1M": {
+      "one_minute": 1436,
+      "metar": 4,
+      "missing": 0
+     }
+    },
+    "2026-11-17": {
+     "KARR1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1206,
+      "metar": 234,
+      "missing": 0
+     },
+     "KMDW1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KPWK1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     }
+    },
+    "2026-11-18": {
+     "KARR1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KDPA1M": {
+      "one_minute": 1109,
+      "metar": 331,
+      "missing": 0
+     },
+     "KMDW1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KORD1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     },
+     "KPWK1M": {
+      "one_minute": 1440,
+      "metar": 0,
+      "missing": 0
+     }
+    }
+   },
+   "first_alert": {
+    "KARR1M": "2026-11-09T08:57Z",
+    "KMDW1M": "2026-11-09T08:57Z",
+    "KORD1M": "2026-11-09T08:57Z",
+    "KPWK1M": "2026-11-09T08:57Z",
+    "KDPA1M": "2026-11-09T08:58Z"
+   },
+   "settlements": 426,
+   "expiration_matches_published": 426,
+   "settlements_on_fallback": 90,
+   "settlements_on_old_fallback": [
+    {
+     "event": "KXTEMPCHIHS-26NOV0711",
+     "minute": "2026-11-07T16:00Z",
+     "settled_f": 44.38,
+     "status": "degraded",
+     "published_f": 44.38,
+     "fallbacks": [
+      {
+       "station": "KDPA1M",
+       "metar_f": 39.92,
+       "age_min": 63.8,
+       "last_one_minute_f": 44.6
+      }
+     ],
+     "nearest_strike": 43.99
+    },
+    {
+     "event": "KXTEMPCHIHS-26NOV0721",
+     "minute": "2026-11-08T02:00Z",
+     "settled_f": 42.12,
+     "status": "degraded",
+     "published_f": 42.12,
+     "fallbacks": [
+      {
+       "station": "KDPA1M",
+       "metar_f": 42.98,
+       "age_min": 63.5,
+       "last_one_minute_f": 39.2
+      }
+     ],
+     "nearest_strike": 41.99
+    },
+    {
+     "event": "KXTEMPCHIHS-26NOV0821",
+     "minute": "2026-11-09T02:00Z",
+     "settled_f": 50.25,
+     "status": "degraded",
+     "published_f": 50.25,
+     "fallbacks": [
+      {
+       "station": "KDPA1M",
+       "metar_f": 53.06,
+       "age_min": 63.8,
+       "last_one_minute_f": 51.8
+      }
+     ],
+     "nearest_strike": 49.99
+    }
+   ],
+   "max_fallback_age_min": 63.8
+  }
+ }
+}
