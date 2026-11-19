@@ -1,0 +1,128 @@
+{
+ "station": "KISP1M",
+ "archive_minutes_per_day": {
+  "2026-11-01": 1440,
+  "2026-11-02": 1440,
+  "2026-11-03": 1440,
+  "2026-11-04": 1440,
+  "2026-11-05": 1440,
+  "2026-11-06": 1440,
+  "2026-11-07": 1440,
+  "2026-11-08": 1440,
+  "2026-11-09": 122,
+  "2026-11-10": 1376,
+  "2026-11-11": 1440,
+  "2026-11-12": 1440,
+  "2026-11-13": 1440,
+  "2026-11-14": 1440,
+  "2026-11-15": 1440,
+  "2026-11-16": 1440,
+  "2026-11-17": 1261
+ },
+ "settlements": [
+  {
+   "event": "KXTEMPNYCHS-26NOV0404",
+   "minute": "2026-11-04T09:00Z",
+   "settled_f": 51.51,
+   "metar_f": 53.06,
+   "archive_one_minute_f": 54.0,
+   "index_with_archive_f": 51.63
+  },
+  {
+   "event": "KXTEMPNYCHS-26NOV0415",
+   "minute": "2026-11-04T20:00Z",
+   "settled_f": 70.57,
+   "metar_f": 66.92,
+   "archive_one_minute_f": 67.0,
+   "index_with_archive_f": 70.58
+  },
+  {
+   "event": "KXTEMPNYCHS-26NOV1510",
+   "minute": "2026-11-15T15:00Z",
+   "settled_f": 46.0,
+   "metar_f": 44.96,
+   "archive_one_minute_f": 46.0,
+   "index_with_archive_f": 46.13
+  },
+  {
+   "event": "KXTEMPNYCHS-26NOV1514",
+   "minute": "2026-11-15T19:00Z",
+   "settled_f": 50.09,
+   "metar_f": 48.92,
+   "archive_one_minute_f": 50.0,
+   "index_with_archive_f": 50.23
+  },
+  {
+   "event": "KXTEMPNYCHS-26NOV1520",
+   "minute": "2026-11-16T01:00Z",
+   "settled_f": 44.2,
+   "metar_f": 44.96,
+   "archive_one_minute_f": 44.0,
+   "index_with_archive_f": 44.08
+  },
+  {
+   "event": "KXTEMPNYCHS-26NOV1601",
+   "minute": "2026-11-16T06:00Z",
+   "settled_f": 39.2,
+   "metar_f": 41,
+   "archive_one_minute_f": 41.0,
+   "index_with_archive_f": 39.2
+  },
+  {
+   "event": "KXTEMPNYCHS-26NOV1612",
+   "minute": "2026-11-16T17:00Z",
+   "settled_f": 52.68,
+   "metar_f": 48.02,
+   "archive_one_minute_f": 50.0,
+   "index_with_archive_f": 52.93
+  },
+  {
+   "event": "KXTEMPNYCHS-26NOV1618",
+   "minute": "2026-11-16T23:00Z",
+   "settled_f": 48.07,
+   "metar_f": 48.92,
+   "archive_one_minute_f": 47.0,
+   "index_with_archive_f": 47.83
+  },
+  {
+   "event": "KXTEMPNYCHS-26NOV1622",
+   "minute": "2026-11-17T03:00Z",
+   "settled_f": 43.27,
+   "metar_f": 42.98,
+   "archive_one_minute_f": 40.0,
+   "index_with_archive_f": 42.9
+  },
+  {
+   "event": "KXTEMPNYCHS-26NOV1707",
+   "minute": "2026-11-17T12:00Z",
+   "settled_f": 35.69,
+   "metar_f": 30.92,
+   "archive_one_minute_f": 31.0,
+   "index_with_archive_f": 35.7
+  },
+  {
+   "event": "KXTEMPNYCHS-26NOV1713",
+   "minute": "2026-11-17T18:00Z",
+   "settled_f": 55.22,
+   "metar_f": 53.96,
+   "archive_one_minute_f": 55.0,
+   "index_with_archive_f": 55.35
+  },
+  {
+   "event": "KXTEMPNYCHS-26NOV1801",
+   "minute": "2026-11-18T06:00Z",
+   "settled_f": 41.09,
+   "metar_f": 39.92,
+   "archive_one_minute_f": null,
+   "index_with_archive_f": null
+  },
+  {
+   "event": "KXTEMPNYCHS-26NOV1814",
+   "minute": "2026-11-18T19:00Z",
+   "settled_f": 63.07,
+   "metar_f": 60.98,
+   "archive_one_minute_f": null,
+   "index_with_archive_f": null
+  }
+ ]
+}

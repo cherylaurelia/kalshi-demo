@@ -52,3 +52,20 @@ export function eastern(isoMinute: string): string {
 
   return `${month} ${et.getUTCDate()}, ${h12}:${minutes} ${hours < 12 ? "AM" : "PM"} ET`;
 }
+
+import upstream from "../public/upstream.json";
+
+export { upstream };
+
+export type ArchiveRow = (typeof upstream.settlements)[number];
+
+export function archiveFor(event: string): ArchiveRow | undefined {
+  return upstream.settlements.find((r) => r.event === event);
+}
+
+/** The settled value and the value with the archived 1-minute reading sit on different sides of the strike. */
+export function crossesStrike(settled: number, other: number | null, strike: number | null): boolean {
+  if (other === null || strike === null) return false;
+
+  return settled > strike !== other > strike;
+}

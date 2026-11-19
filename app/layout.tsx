@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Archivo_Narrow, Inter } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
+const archivo = Archivo_Narrow({ subsets: ["latin"], weight: ["600", "700"], variable: "--font-archivo" });
 
 export const metadata: Metadata = {
   title: "Kalshi Weather Index: station feed health behind hourly settlements (unofficial)",
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={`${inter.variable} antialiased`}>
+    <html lang="en" className={`${inter.variable} ${archivo.variable} antialiased`}>
       <body>{children}</body>
     </html>
   );

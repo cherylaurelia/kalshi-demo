@@ -1,18 +1,21 @@
 @import "tailwindcss";
 
-/* From kalshi.com's computed styles: near-black page (#0a0c0f), white ink at 90/55/30% opacity,
-   green #00dd94 for Yes/up, red #ff454d for No/down. Kalshi Sans is theirs, so Inter stands in. */
+/* From kalshi.com market pages (site.png + computed styles): white page, near-black ink, gray secondary text,
+   green #00b67a for Yes / primary buttons, red #e5484d for No. Kalshi Sans is theirs: Inter + Archivo Narrow stand in
+   for its body and condensed headline cuts. */
 @theme {
-  --color-page: #0a0c0f;
-  --color-card: #13161b;
-  --color-line: #232830;
-  --color-ink: rgb(255 255 255 / 0.9);
-  --color-muted: rgb(255 255 255 / 0.55);
-  --color-faint: rgb(255 255 255 / 0.5);
-  --color-up: #00dd94;
-  --color-down: #ff454d;
-  --color-warn: #f5b84a;
+  --color-page: #ffffff;
+  --color-card: #f7f8f9;
+  --color-line: #e5e7ea;
+  --color-ink: #0a0c0f;
+  --color-muted: #5b6168;
+  --color-faint: #6b7178;
+  --color-up: #00b67a;
+  --color-up-ink: #007a52;
+  --color-down: #b4232b;
+  --color-warn: #8a4f00;
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-display: var(--font-archivo), var(--font-inter), ui-sans-serif, sans-serif;
   --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
 }
 
